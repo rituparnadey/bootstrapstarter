@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.navbar-inverse {
+  background-color: aqua;
+  border-color: #080808;
+}
+
+.media-container {
+  margin-top: 50px;
+  border: 1px solid #eee;
+}
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+  margin-top: 25px;
+}
+
+.profile-container {
+  padding-bottom: 50px;
+}
